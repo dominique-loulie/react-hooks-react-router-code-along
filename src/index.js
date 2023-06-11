@@ -13,4 +13,5 @@ function App() {
   return <Home />;
 }
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root")
+);
